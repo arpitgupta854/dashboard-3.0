@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar-inner{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(18, 19, 19, 0.559);
+    font-family: 'Mooli', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+}
+.logo{
+    margin-left: 6px;
+    display: flex;
+    margin-top: -24px;
+}
+.logo h1{
+    margin-right: 42px;
+    margin-top: 32px;
+}
+.logo i{
+    margin-top: 38px;
+    font-size: 2rem;
+}
+.visit{
+    display: flex;
+   margin-top: 15px;
+}
+.dash-item{
+    font-family: 'Mooli', sans-serif;
+    font-family: 'Poppins', sans-serif; 
+    font-size: .8rem; 
+    background-color:  rgba(18, 19, 19, 0.559);
+    margin-top: -1px;
+    padding-top: 8px;
+    cursor: pointer;
+}
+.line{
+    border: 2px solid black;
+    width: 300px;
+}
+.item2{
+    margin-top: 25px;
+}
+.right{
+    /* background-color: wheat; */
+}
+.bar{
+    display: flex;
+    overflow: hidden;
+}
+.contact i{
+    font-size: 35px;
+    /* margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 12px; */
+    margin-right: 19px;
+}
+
+.user1{
+    display: flex;
+    margin-top: 58px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 142px;
+    margin-right: 26px;
+    padding: 43px;
+    margin-left: 89px;
+    
+}
+.user{
+    display: flex;
+    
+    overflow: hidden;
+}
+.visit i{
+    font-size: 35px;
+    margin-left: -45px;
+    margin-top: 7px;
+}
+.allnumber{
+    display: flex;
+    margin-left: 34px;
+}
+.number-1{
+    margin-right: 12px;
+}
+.graph-inner-part{
+    margin-top: 80px;
+    margin-left: 114px;
+    font-family: 'Mooli', sans-serif;
+    font-family: 'Poppins', sans-serif; 
+    /* display: flex; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.center-img{
+    margin-top: 49px;
+}
+.graph{
+    display: flex;
+}
+.right-part-img{
+    margin-top: 70px;
+    margin-left: 185px;
+}
